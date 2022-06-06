@@ -1,5 +1,3 @@
 # Daria Sitnikova
 
-## CV
-
 ## Contacts
