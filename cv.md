@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="en-US">
-
 <body>
     <h1><a href="https://komsomolochka.github.io/rsschool-cv/">rsschool-cv</a></h1>
     <ol>
@@ -38,5 +35,3 @@
         </li>
     </ol>
 </body>
-
-</html>
